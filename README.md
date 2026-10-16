@@ -13,14 +13,10 @@
   <img src="https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white" alt="QML">
 </p>
 
-### ✦ about
-
 - 🐧 daily-driving **Gentoo** with a hand-built Hyprland + Quickshell rice
 - 🎮 making games in **Unity** and **Godot**
 - 🗾 learning **Japanese** — so I built my own kanji app
 - 🤖 tinkering with local LLMs and terminal agent tooling
-
-### ✦ featured
 
 <p>
   <a href="https://github.com/clxcht/fable-astra-desktop-companions"><img src="assets/card-companions.svg" alt="Fable + Astra desktop companions" width="32%"></a>
