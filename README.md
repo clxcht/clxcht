@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v2.svg" alt="clxcht — me and le boys (claude and gpt)" width="100%">
+  <img src="assets/banner-v3.svg" alt="clxcht — me and le boys (claude and gpt)" width="100%">
 </p>
 
 <p align="center">
