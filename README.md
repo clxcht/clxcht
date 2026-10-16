@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v2.svg" alt="clxcht — builds small, strange, lovingly made software" width="100%">
+  <img src="assets/banner-v2.svg" alt="clxcht — me and le boys (claude and gpt)" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 - 🐧 daily-driving **Gentoo** with a hand-built Hyprland + Quickshell rice
 - 🎮 making games in **Unity** and **Godot**
-- 🗾 learning **Japanese** — so I built my own kanji app
+- 🗾 learning **Japanese** so I built my own kanji app
 - 🤖 tinkering with local LLMs and terminal agent tooling
 
 <p>
