@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="clxcht — builds small, strange, lovingly made software" width="100%">
+  <img src="assets/banner-v2.svg" alt="clxcht — builds small, strange, lovingly made software" width="100%">
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 - 🤖 tinkering with local LLMs and terminal agent tooling
 
 <p>
-  <a href="https://github.com/clxcht/fable-astra-desktop-companions"><img src="assets/card-companions.svg" alt="Fable + Astra desktop companions" width="32%"></a>
-  <a href="https://github.com/clxcht/kanji1000-releases"><img src="assets/card-kanji.svg" alt="Kanji 1000" width="32%"></a>
-  <a href="https://github.com/clxcht/astra-codex-pet"><img src="assets/card-astra.svg" alt="Astra Codex Pet" width="32%"></a>
+  <a href="https://github.com/clxcht/fable-astra-desktop-companions"><img src="assets/card-companions-v2.svg" alt="Fable + Astra desktop companions" width="32%"></a>
+  <a href="https://github.com/clxcht/kanji1000-releases"><img src="assets/card-kanji-v2.svg" alt="Kanji 1000" width="32%"></a>
+  <a href="https://github.com/clxcht/astra-codex-pet"><img src="assets/card-astra-v2.svg" alt="Astra Codex Pet" width="32%"></a>
 </p>
 
 <p align="center"><sub>星 — thanks for stopping by</sub></p>
