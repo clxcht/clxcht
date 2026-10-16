@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="Astra Codex Pet">
+  <style>
+    .serif { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; }
+    .mono  { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .sans  { font-family: -apple-system, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="189" rx="14" fill="#120e1d" stroke="#2c2342"/>
+  <rect x="0" y="0" width="6" height="190" rx="3" fill="#a78bfa"/>
+  <text class="mono" x="28" y="42" font-size="11" letter-spacing="2.5" fill="#a78bfa">POWERSHELL  ·  CODEX</text>
+  <text class="serif" x="28" y="84" font-size="32" font-style="italic" fill="#f4eefc">Astra Codex Pet</text>
+  <text class="sans" x="28" y="118" font-size="15" fill="#c8bfdc">An animated cat-eared companion for</text>
+  <text class="sans" x="28" y="142" font-size="15" fill="#c8bfdc">Codex desktop, one-command install.</text>
+  <text class="mono" x="372" y="168" font-size="13" text-anchor="end" fill="#8f7cc0">view →</text>
+</svg>
