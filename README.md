@@ -24,4 +24,4 @@
   <a href="https://github.com/clxcht/astra-codex-pet"><img src="assets/card-astra-v2.svg" alt="Astra Codex Pet" width="32%"></a>
 </p>
 
-<p align="center"><sub>星 — thanks for stopping by</sub></p>
+<p align="center"><sub>ありがとうございます</sub></p>
